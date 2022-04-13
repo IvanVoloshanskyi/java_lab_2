@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32b96e31-e636-4473-9112-99e2078d9743" name="Changes" comment="" />
+    <list default="true" id="74fccf19-52d5-43e2-8fce-688a6b6f8ab6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/java_lab_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/src/ua/lviv/iot/GameRoom/Ball_toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/src/ua/lviv/iot/GameRoom/Car_toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/src/ua/lviv/iot/GameRoom/Cubes_toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/src/ua/lviv/iot/GameRoom/Doll_toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/src/ua/lviv/iot/GameRoom/Toys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/src/ua/lviv/iot/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,7 +42,63 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="270WZ2FZauE6TMu6pEInwAob0fa" />
+  <component name="ProjectId" id="27bVLcECo1UmJ6ix3uC6avdoWAT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,16 +107,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ua/lviv/iot/Toys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\Desktop\java_labs\java_lab2\src\ua\lviv\iot\Toys" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.Main" />
+      <module name="java_lab2" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32b96e31-e636-4473-9112-99e2078d9743" name="Changes" comment="" />
-      <created>1648457544504</created>
+      <changelist id="74fccf19-52d5-43e2-8fce-688a6b6f8ab6" name="Changes" comment="" />
+      <created>1649588721367</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648457544504</updated>
-      <workItem from="1648457548338" duration="130000" />
+      <updated>1649588721367</updated>
+      <workItem from="1649588722354" duration="61000" />
+      <workItem from="1649588934589" duration="15207000" />
     </task>
     <servers />
   </component>
