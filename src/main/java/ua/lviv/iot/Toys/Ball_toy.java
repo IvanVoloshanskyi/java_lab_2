@@ -13,6 +13,8 @@ public class Ball_toy extends Toys{
         super(price, amount, size);
     }
 
-
+    public String toCSV() {
+        return super.toCSV();
+    }
 }
 

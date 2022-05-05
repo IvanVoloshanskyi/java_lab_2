@@ -14,6 +14,12 @@ public abstract class Toys {
 
 
     }
+    public String getHeaders() {
+        return "price;amount;size;";
+    }
+    public String toCSV() {
+        return String.format("%d; %d; %d", getPrice(), getSize(), getAmount());
+    }
 
 
     public String toString(){

@@ -9,5 +9,7 @@ public class Cubes_toy  extends Toys{
     public Cubes_toy(int price, int amount, int size) {
         super(price, amount, size);
     }
-
+    public String toCSV() {
+        return super.toCSV();
+    }
 }

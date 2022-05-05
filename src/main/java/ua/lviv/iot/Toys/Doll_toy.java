@@ -13,5 +13,7 @@ public class Doll_toy  extends Toys{
 
 
     }
-
+    public String toCSV() {
+        return super.toCSV();
+    }
 }
