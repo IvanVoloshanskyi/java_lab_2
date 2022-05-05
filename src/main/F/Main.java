@@ -11,10 +11,10 @@ public class Main {
     public static void main(String[] args) {
 
 
-    Ball_toy ball = new Ball_toy(12, 13, "Small");
-    Car_toy car = new Car_toy(14,15 , "Big");
-    Doll_toy doll = new Doll_toy(22, 17, "Medium");
-    Cubes_toy cubes = new Cubes_toy(18, 19, "Small");
+    Ball_toy ball = new Ball_toy(12, 13, 1);
+    Car_toy car = new Car_toy(14,15 , 2);
+    Doll_toy doll = new Doll_toy(22, 17, 3);
+    Cubes_toy cubes = new Cubes_toy(18, 19, 4);
 
 
 
