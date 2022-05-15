@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fccf19-52d5-43e2-8fce-688a6b6f8ab6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/GameRoom/imp/GameRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/GameRoom/imp/GameRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Ball_toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Ball_toy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Car_toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Car_toy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Cubes_toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Cubes_toy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Doll_toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Doll_toy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Toys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Toys/Toys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/GameRoomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/GameRoomTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/ToysWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/ToysWriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/expected.csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/expected.csv.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +134,8 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\Desktop\java_lab2\src\main\java\ua\lviv\iot" />
+      <recent name="C:\Users\Ivan\Desktop\java_lab2\src\main\java\ua\lviv\iot\Toys" />
       <recent name="C:\Users\Ivan\Desktop\java_lab2\src\main\F" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -154,23 +144,12 @@
       <recent name="ua.lviv.iot.GameRoom.imp" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.test in java_lab2">
+  <component name="RunManager" selected="JUnit.RegularTest">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.Main" />
       <module name="java_lab2" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in java_lab2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_lab2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <dir value="$PROJECT_DIR$/src/test/java/test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,7 +185,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameRoomTest.addToys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegularTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_lab2" />
       <extension name="coverage">
         <pattern>
@@ -215,24 +194,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.GameRoomTest" />
-      <option name="METHOD_NAME" value="addToys" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="test.RegularTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ToysWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_lab2" />
-      <extension name="coverage" runner="jacoco" />
-      <option name="PACKAGE_NAME" value="ua.lviv.iot" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
-      <dir value="$PROJECT_DIR$/src/test/java/test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ToysWriterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,6 +230,20 @@
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="wholeProject" />
       </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in java_lab2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -267,19 +259,19 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.GameRoomTest" />
-      <item itemvalue="JUnit.GameRoomTest.addToys" />
-      <item itemvalue="JUnit.All in java_lab2" />
       <item itemvalue="JUnit.test in java_lab2" />
-      <item itemvalue="JUnit.Whole project" />
       <item itemvalue="JUnit.Ball_toyTest" />
+      <item itemvalue="JUnit.test in java_lab2 (1)" />
+      <item itemvalue="JUnit.ToysWriterTest" />
+      <item itemvalue="JUnit.RegularTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RegularTest" />
         <item itemvalue="JUnit.test in java_lab2" />
+        <item itemvalue="JUnit.ToysWriterTest" />
+        <item itemvalue="JUnit.test in java_lab2 (1)" />
         <item itemvalue="JUnit.Ball_toyTest" />
-        <item itemvalue="JUnit.Whole project" />
-        <item itemvalue="JUnit.Whole project" />
-        <item itemvalue="JUnit.All in java_lab2" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +291,10 @@
       <workItem from="1650630963030" duration="618000" />
       <workItem from="1651747986469" duration="1814000" />
       <workItem from="1651749851312" duration="13180000" />
-      <workItem from="1651784874165" duration="69000" />
+      <workItem from="1651784874165" duration="459000" />
+      <workItem from="1652255185405" duration="1085000" />
+      <workItem from="1652423611570" duration="3809000" />
+      <workItem from="1652607815412" duration="179000" />
     </task>
     <servers />
   </component>
@@ -326,7 +321,7 @@
       <FILTER>test.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java_lab2$ua_lviv_iot_in_java_lab2.exec" NAME="ua.lviv.iot in java_lab2 Coverage Results" MODIFIED="1651779857542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/java_lab2$test_in_java_lab2.ic" NAME="test in java_lab2 Coverage Results" MODIFIED="1651782074248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java_lab2$test_in_java_lab2.ic" NAME="test in java_lab2 Coverage Results" MODIFIED="1652424389016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/java_lab2$Ball_toyTest.ic" NAME="Ball_toyTest Coverage Results" MODIFIED="1651780784845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.*</FILTER>
     </SUITE>
@@ -334,7 +329,7 @@
       <FILTER>test.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java_lab2$test_in_java_lab2.exec" NAME="test in java_lab2 Coverage Results" MODIFIED="1651778741202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/java_lab2$test_in_java_lab2__1_.ic" NAME="test in java_lab2 (1) Coverage Results" MODIFIED="1651780536542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/java_lab2$test_in_java_lab2__1_.ic" NAME="test in java_lab2 (1) Coverage Results" MODIFIED="1652423746521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java_lab2$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1651780725169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

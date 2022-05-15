@@ -35,7 +35,7 @@ public class ToysWriterTest {
         gameRoom.addToys(car_toy);
         gameRoom.addToys(doll_toy);
         ToysWriter writer = new ToysWriter();
-        writer.writeToFile(toys, "src\\test\\resources\\expected.csv");
+        writer.writeToFile(toys, "src\\test\\resources\\expected");
 
     }
 
