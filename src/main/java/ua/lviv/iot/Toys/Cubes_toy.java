@@ -1,11 +1,15 @@
 package ua.lviv.iot.Toys;
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 public class Cubes_toy  extends Toys{
-    public Cubes_toy(int price, int amount, String size) {
+    public Cubes_toy(int price, int amount, int size) {
         super(price, amount, size);
     }
-    @Override
-    public String toString(){
-        return "Cubes_Toys Size: " + size + ". Price :" + price + ". Amount: " + amount + System.lineSeparator();
+    public String toCSV() {
+        return super.toCSV();
     }
 }
